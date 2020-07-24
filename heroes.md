@@ -6,4 +6,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
-* Volcán Negro
+* Volcán Negro 
+* Atom
